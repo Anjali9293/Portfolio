@@ -60,10 +60,6 @@ const DEFAULT_STATE = {
       },
       images: [
         {
-          src: "./img/burger0.png",
-          caption: "Sub Image Caption 1"
-        },
-        {
           src: "./img/burger1.png",
           caption: "Sub Image Caption 1"
         }, {
