@@ -19,7 +19,7 @@ git add
 
 - Website has navigation bars to toggle between Home,About, Contact and portfolio page.
 
-![Navbar](public/img/nav.png)
+![Navbar](public/img/nav.PNG)
 
 - Website is designed with assistive technologies like links to github repositories and deployed applications as well as graphics and images demonstrating project UI making it accessible for everyone.
 
