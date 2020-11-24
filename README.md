@@ -14,12 +14,12 @@ The webpage renders well on variety of devices and windows or screen sizes.The w
 - React
 - Javascript
 - jQuery
-
+git add
 ## Features
 
 - Website has navigation bars to toggle between Home,About, Contact and portfolio page.
 
-![Navbar](/public/img/nav.png)
+![Navbar](img/nav.png)
 
 - Website is designed with assistive technologies like links to my resume,github repositories and deployed applications as well as graphics and images demonstrating project UI making it accessible for everyone.
 
