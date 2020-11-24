@@ -14,7 +14,7 @@ The webpage renders well on variety of devices and windows or screen sizes.The w
 - React
 - Javascript
 - jQuery
-git add
+
 ## Features
 
 - Website has navigation bars to toggle between Home,About, Contact and portfolio page.
@@ -23,11 +23,11 @@ git add
 
 - Website is designed with assistive technologies like links to github repositories and deployed applications as well as graphics and images demonstrating project UI making it accessible for everyone.
 
-![AboutMe](assets/snapshots/aboutme.PNG)
+![AboutMe](public/img/about.PNG)
 
-![ContactMe](assets/snapshots/contact.PNG)
+![ContactMe](public/img/Contact.PNG)
 
-![Portfolio](assets/snapshots/portfolio.PNG)
+![Portfolio](public/img/portfolio.PNG)
 
 
 - Website uses Bootstrap as a framework to help design the website faster and easier. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, etc. 
@@ -36,6 +36,8 @@ git add
 - Website consists of intuitive design, easy navigation and relevant content.
 
 - Webiste uses custom CSS to style the footer.
+
+- Website is built using React
 
 Click the link below to view the deployed application 
 
