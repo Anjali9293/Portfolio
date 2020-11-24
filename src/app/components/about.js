@@ -53,7 +53,7 @@ function AboutPage() {
                         style={{ textAlign: "center" }}
                       >
                         <img
-                          src="./img/mypic.jpg"
+                          src="./img/mypic.JPG"
                           className="img-fluid rounded b-shadow-a"
                           alt="Mypic"
                         />
@@ -61,7 +61,6 @@ function AboutPage() {
                     </div>
                   </div>
                   <div className="skill-mf">
-                    {/* <p className="title-s">Skill</p> */}
                     {skills.map(skill => {
                       return (
                         <React.Fragment key={skill.id}>
