@@ -1,0 +1,48 @@
+{
+  "name": "portfolio",
+  "version": "0.3.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@icon/ionicons": "^5.0.1-alpha.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.3.1",
+    "emailjs-com": "^2.6.4",
+    "gh-pages": "^2.2.0",
+    "jquery": "^3.5.1",
+    "jquery-ui": "^1.12.1",
+    "jquery.easing": "^1.4.1",
+    "lightbox2": "^2.11.0",
+    "node-sass": "^4.14.1",
+    "normalize.css": "^8.0.1",
+    "popper.js": "^1.15.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^4.0.0",
+    "react-typed": "^1.1.2",
+    "typed.js": "^2.0.10"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
