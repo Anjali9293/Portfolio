@@ -144,7 +144,7 @@ function Contact() {
                         collaboration, or just say hi, I'd love to hear from
                         you.
                         <br />
-                        Simply fill the from and send me an email.
+                        Simply fill the from or send me an email.
                       </p>
                       {/* <!-- <ul class="list-ico">
                               <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
