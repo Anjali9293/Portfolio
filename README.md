@@ -41,7 +41,7 @@ The webpage renders well on variety of devices and windows or screen sizes.The w
 
 Click the link below to view the deployed application 
 
-[Github Page](https://anjali9293.github.io/Updated-Portfolio-2/.)
+[Github Page](https://anjali9293.github.io/React-Portfolio/)
 
 
 ## Contributers
