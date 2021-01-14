@@ -53,7 +53,7 @@ function AboutPage() {
                         style={{ textAlign: "center" }}
                       >
                         <img
-                          src="./React-Portfolio/img/mypic.jpg"
+                          src="img/mypic.jpg"
                           className="img-fluid rounded b-shadow-a"
                           alt="Mypic"
                         />
