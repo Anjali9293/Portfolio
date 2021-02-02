@@ -69,7 +69,7 @@ function Testimonials(){
                     <div className="item" key={`testimonial-${i}`}>
                         <div className="content">"{testimonial.content}"</div>
                         <div className="customer-thumb">
-                        <img src={testimonial.image} alt={testimonial.name}/>
+                        <img src={testimonial.image} alt={testimonial.name} className="rounded-circle"/>
                         <h6 className="text-white mb-0">{testimonial.name}</h6>
                         <p>{testimonial.position}</p>
                         </div>
