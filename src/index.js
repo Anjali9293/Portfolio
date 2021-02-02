@@ -4,6 +4,7 @@ import App from './app/App.js';
 
 import 'normalize.css';
 import 'animate.css/animate.css';
+
 import 'bootstrap/dist/css/bootstrap.css';
 import '@icon/ionicons/ionicons.css';
 import '@fortawesome/fontawesome-free/css/all.css';
@@ -14,6 +15,8 @@ import 'popper.js/dist/popper.min.js';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import 'jquery.easing/jquery.easing.js';
 import 'lightbox2/dist/js/lightbox.min.js';
+import 'owl.carousel/dist/assets/owl.carousel.css';
+import 'owl.carousel';
 
 import * as serviceWorker from './serviceWorker';
 

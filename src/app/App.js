@@ -6,6 +6,7 @@ import AboutPage from './components/about.js';
 import Portfolio from './components/portfolio.js';
 import Contact from './components/contact.js';
 import Footer from './components/footer.js';
+import Testimonials from './components/testimonials.js';
 import AppContext from './AppContext';
 
 const App = () => {
@@ -13,7 +14,8 @@ const App = () => {
 		<AppContext.Provider>
 		    <Navbar />
 		    <Intro />
-		    <AboutPage />
+		    <AboutPage />			
+			<Testimonials/>
 		    <Portfolio />
 		    <Contact />
 		    <Footer />	
