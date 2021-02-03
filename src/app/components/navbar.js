@@ -103,13 +103,13 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#portfolio">
-                Portfolio
+              <a className="nav-link js-scroll" href="#testimonials">
+                Testimonials
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#testimonials">
-                Testimonials
+              <a className="nav-link js-scroll" href="#portfolio">
+                Portfolio
               </a>
             </li>
             <li className="nav-item">
