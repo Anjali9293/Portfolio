@@ -187,8 +187,8 @@ function Portfolio() {
                          </span>
                       </div>
                       <div className="w-links">
-                        <a href={portfolio.github} class="btn btn-outline-secondary" target="_blank"><i class="fab fa-github fa-md"></i></a>
-                        <a href={portfolio.demo} class="btn btn-outline-secondary" target="_blank">Demo</a>
+                        <a href={portfolio.github} class="btn btn-outline-secondary" target="_blank" rel="noreferrer"><i class="fab fa-github fa-md"></i></a>
+                        <a href={portfolio.demo} class="btn btn-outline-secondary" target="_blank" rel="noreferrer">Demo</a>
                       </div>
                     </div>
                   </div>
