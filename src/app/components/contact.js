@@ -146,11 +146,6 @@ function Contact() {
                         <br />
                         Simply fill the from or send me an email.
                       </p>
-                      {/* <!-- <ul class="list-ico">
-                              <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                              <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                              <li><span class="ion-email"></span> contact@example.com</li>
-                              </ul> --> */}
                     </div>
                     <div className="socials">
                       <ul>
@@ -160,8 +155,11 @@ function Contact() {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <span className="ico-circle">
+                            <span className="ico-circle d-inline-block">
                               <i className="ion ion-mail"></i>
+                            </span>
+                            <span className="d-inline-block">
+                            pantanjali7@gmail.com
                             </span>
                           </a>
                         </li>
@@ -171,8 +169,11 @@ function Contact() {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <span className="ico-circle">
+                            <span className="ico-circle d-inline-block">
                               <i className="ion ion-logo-github"></i>
+                            </span>
+                            <span className="d-inline-block">
+                            Anjali9293
                             </span>
                           </a>
                         </li>
@@ -182,8 +183,11 @@ function Contact() {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <span className="ico-circle">
+                            <span className="ico-circle d-inline-block">
                               <i className="ion ion-logo-linkedin"></i>
+                            </span>
+                            <span className="d-inline-block">
+                            anjali-pant
                             </span>
                           </a>
                         </li>
@@ -193,8 +197,11 @@ function Contact() {
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            <span className="ico-circle">
+                            <span className="ico-circle d-inline-block">
                               <i className="ion ion-logo-twitter"></i>
+                            </span>
+                            <span className="d-inline-block">
+                            pantanjali7
                             </span>
                           </a>
                         </li>
