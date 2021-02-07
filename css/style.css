@@ -97,7 +97,7 @@ a:hover {
 
 .paralax-mf {
   position: relative;
-  padding: 8rem 0;
+  padding: 0rem 0;
 }
 
 .display-table {
@@ -119,10 +119,6 @@ a:hover {
 
 .sect-pt4 {
   padding-top: 4rem;
-}
-
-.sect-mt4 {
-  margin-top: 4rem;
 }
 
 /* Title S */
@@ -160,11 +156,13 @@ a:hover {
 
 .title-box-2 {
   margin-bottom: 3rem;
+  text-align: center;
 }
 
 .title-left {
   font-size: 2rem;
   position: relative;
+  
 }
 
 .title-left:before {
@@ -204,7 +202,8 @@ a:hover {
 }
 
 .socials ul li {
-  display: inline-block;
+  display: inherit;
+  padding:5px;
 }
 
 .socials .ico-circle {
@@ -406,7 +405,7 @@ ABOUT
   margin-left: 10px;
 }
 
-.skill-mf span {
+/* .skill-mf span {
   color: #4e4e4e;
 }
 
@@ -420,6 +419,18 @@ ABOUT
 .skill-mf .progress .progress-bar {
   height: .7rem;
   background-color: #0078ff;
+} */
+
+/*
+Skills
+*/
+.skills {
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*
