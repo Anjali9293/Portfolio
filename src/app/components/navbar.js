@@ -93,32 +93,32 @@ function Navbar() {
         >
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link js-scroll active" href="#home">
+              <a className="nav-link js-scroll active" href="./#home">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#about">
+              <a className="nav-link js-scroll" href="./#about">
                 About
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#testimonials">
+              <a className="nav-link js-scroll" href="./#testimonials">
                 Testimonials
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#portfolio">
+              <a className="nav-link js-scroll" href="./#portfolio">
                 Portfolio
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#skills">
+              <a className="nav-link js-scroll" href="./#skills">
                 Skills
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll" href="#contact">
+              <a className="nav-link js-scroll" href="./#contact">
                 Contact
               </a>
             </li>
