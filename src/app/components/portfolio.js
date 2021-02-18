@@ -429,7 +429,7 @@ function Portfolio() {
                         href={image.src}
                         data-lightbox="gallery-vmarine"
                         style={{ display: "none" }}
-                      ></a>
+                      >&nbsp;</a>
                     );
                   })}
                 </div>
