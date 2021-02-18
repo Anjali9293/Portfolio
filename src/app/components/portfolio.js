@@ -2,6 +2,10 @@ import React, { useState } from "react";
 import { Label } from "semantic-ui-react";
 import "semantic-ui-css/semantic.min.css";
 
+const DEFAULT_COLOR_STATE = [
+  "red","orange","yellow","olive","green","teal","blue","violet","purple","pink","brown","grey","black"
+];
+
 const DEFAULT_STATE = {
   portfolios: [
     {
@@ -35,7 +39,8 @@ const DEFAULT_STATE = {
       technologies: [
         {
           name: "Javascript",
-          color: "yellow"
+          color: "yellow",
+          textcolor: "hsla(200,0%,0%,.7)"
         },
         {
           name: "React",
@@ -90,7 +95,8 @@ const DEFAULT_STATE = {
       technologies: [
         {
           name: "Javascript",
-          color: "yellow"
+          color: "yellow",
+          textcolor: "hsla(200,0%,0%,.7)"
         },
         {
           name: "HTML",
@@ -375,7 +381,7 @@ function Portfolio() {
                               <div className="row pl-3">
                         {portfolio.technologies.map((technology, k) => {
                           return (
-                                <div className="col-auto p-1">
+                                <div className="col-auto p-1" key={`tech-${k}`}>
                                   <span>
                                     <Label
                                       as="a"
@@ -383,7 +389,7 @@ function Portfolio() {
                                         "backgroundColor": technology.color,
                                         "color": technology.textcolor || "white"
                                       }}
-                                      color={technology.color}
+                                      color={DEFAULT_COLOR_STATE[technology.color.toLowerCase()] && technology.color.toLowerCase()}
                                       image
                                     >
                                       <Label.Detail>
@@ -399,15 +405,15 @@ function Portfolio() {
                         <div className="w-links">
                           <a
                             href={portfolio.github}
-                            class="btn btn-outline-secondary"
+                            className="btn btn-outline-secondary"
                             target="_blank"
                             rel="noreferrer"
                           >
-                            <i class="fab fa-github fa-md"></i>
+                            <i className="fab fa-github fa-md"></i>
                           </a>
                           <a
                             href={portfolio.demo}
-                            class="btn btn-outline-secondary"
+                            className="btn btn-outline-secondary"
                             target="_blank"
                             rel="noreferrer"
                           >

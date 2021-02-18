@@ -33,21 +33,21 @@ const DEFAULT_STATE = {
                     points: 3
                 }}
             />
-        <div class="container">
+        <div className="container">
             <h1 style={{ textAlign: "center" }} >Skills</h1>
-            <div class="line-mf"></div>
+            <div className="line-mf"></div>
             <br></br>
-        <div class="row">
+        <div className="row">
         {skills.map(skill => {
             return(
-            <div class="col-4">
+            <div className="col-4" key={skill.id}>
                 <img src={skill.image} 
                 title={skill.id}
                 style={{
                     align: "center",
                     width: "150px",
                     padding: "20px"
-                }} class="skills center-block" alt={skill.id}/>
+                }} className="skills center-block" alt={skill.id}/>
             </div>
         );
         })}
