@@ -179,7 +179,7 @@ const DEFAULT_STATE = {
       github: "https://github.com/Anjali9293/burger-Node-express-handlebars",
       demo: "https://stormy-falls-15404.herokuapp.com/",
       mainImage: {
-        src: "img/burger.png",
+        src: "img/burger.PNG",
         caption: "Main Image Caption 1",
       },
       images: [
