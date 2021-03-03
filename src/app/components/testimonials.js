@@ -20,7 +20,26 @@ const DEFAULT_STATE = {
             image:"img/victor.PNG",
             name:"Victor Scherman",
             position:"Full Stack Web Developer",
+        },
+        {
+            content:"I worked with Anjali in customer Success in goFleet, she was responsible of some of our major accounts where she was responsible of providing technical advises and solutions for their overall business problems. in addition she was responsible of vertically growing the accounts, she was a crucial success manager showing excellent Technical skills understanding the overall customer business and come up with solutions that solves customer needs and yet fits their budgetary requirements.Anjali was a star within the organization where everybody was reaching out to her because of her willingness to help and knowledge depth, and was admired by her customers being always on top of the issues and proactive in providing advises and solutions",
+            image:"img/ahmed.PNG",
+            name:"Ahmed Mostafa",
+            position:"IT Director",
+        },
+        {
+            content:"I worked with Anjali at GoFleet as her manager in the Technical Support department. Anjali was a vital part of our day to day operations, constantly excelling in her duties. She was always willing and able to take on special projects and executed them efficiently and expertly.Anjali was an integral part of the organization and could always be counted on to deliver on time and above expectations. Everyone in the organization knew that if there was a problem or question they didn't have the answer to that they could rely on Anjali to provide a solution.",
+            image:"img/adrian.PNG",
+            name:"Adrian Aymont",
+            position:"Account Manager at ZenduIT",
+        },
+        {
+            content:"When I worked with Anjali, she never hesitated to lend a helping hand with complex problems and constantly managed to deliver outcomes beyond expectations. She championed all services provided by GoFleet/ZenduIT, contributing significantly to the acceptance and execution of large-scale government and private sector projects. Her success was primarily motivated by her calculated approach, expert communication skills, and effective delegation methods.I have been fortunate enough to have worked with Anjali and learned tremendously from her. She was a crucial force for me to grow professionally as a customer success manager. Above all, she genuinely cared about the products and every team member.No matter how difficult the challenge, inviting someone like Anjali to your team will be a vital asset. Her skills and leadership will constantly direct the team up the right path.",
+            image:"img/asad.PNG",
+            name:"Asad Khan",
+            position:"Team Lead - Customer Success at GoFleet",
         }
+        
 
     ]
 }
@@ -60,7 +79,7 @@ function Testimonials(){
             <div className="testimonial5 py-5 bg-inverse ">
                 <div className="row justify-content-center">
                 <div className="col-md-7 text-center">
-                    <h3 className="mb-3 text-white">A Few Words From My Teamates</h3>
+                    <h3 className="mb-3 text-white">A Few Words From My Teamates/Co-workers</h3>
                 </div>
                 </div>
                 <div className="owl-carousel owl-theme testi5 mt-4 text-center">
