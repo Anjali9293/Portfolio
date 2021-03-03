@@ -5,19 +5,19 @@ const DEFAULT_STATE = {
     testimonials:[
         {
             content:"It was such a pleasure working with, and getting to know, Anjali during out Full Stack Web Development Bootcamp. I worked with Anjali on a variety of projects, from short in class activities to a week long project. Anjali is incredibly helpful. She is incredibly knowledgeable and is always willing to go through things and break them down to help everyone understand. Anjali has an amazing work ethic. She never gives up when working through a problem. Working with her on our final project for the course was amazing. Anjali was a driving force in us using programs like Firebase and GraphQL (neither of which were taught during our course). Whenever we hit a wall during this project Anjali was always there with excellent problem solving abilities and her amazing work ethic. She would be an incredible asset to any team.",
-            image:"img/leah.png ",
+            image:"img/leah.PNG ",
             name:"Leah O'Gorman",
             position:"Full Stack Web Developer",
         },
         {
             content:"As a member of Anjali's learning group, I was lucky to work with her on a daily basis as well as two of our 3 major projects. Anj quickly became a huge asset for us as her ability to grasp and explain new concepts led her to be like our own personal instructor in the camp. In working with Anj on our major projects she would easily take on a leadership role and take on the most difficult tasks with ease often working extremely late hours to bring our group a nearly finished product on her own. Her amazing personality and teacher's spirit made for a truly amazing experience and I already miss having her around to listen to and learn from. Anj will be an amazing asset to any company that is smart enough and lucky enough to have her.",
-            image:"img/shaun.png",
+            image:"img/shaun.PNG",
             name:"Shaun Samoridny",
             position:"Full Stack Web Developer",
         },
         {
             content:"Working with Anj was an amazing experience. Her resourcefulness and work ethic were unmatched. Often during the program we'd come up against seemingly unsolvable problems. Anj would never give up. She'd demonstrate extraordinary problem solving abilities, and was always happy to share her knowledge and insights. She'll be a great asset on any team.",
-            image:"img/victor.png",
+            image:"img/victor.PNG",
             name:"Victor Scherman",
             position:"Full Stack Web Developer",
         }

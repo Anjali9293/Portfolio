@@ -15,7 +15,7 @@ const DEFAULT_STATE = {
       github: "https://github.com/Anjali9293/Project3",
       demo: "https://vast-taiga-98028.herokuapp.com/",
       mainImage: {
-        src: "img/drastic.png",
+        src: "img/drastic.PNG",
         caption: "Main Image Caption 1",
       },
       images: [
@@ -71,24 +71,24 @@ const DEFAULT_STATE = {
       github: "https://github.com/Anjali9293/Project-2-Flame-Game",
       demo: "https://tranquil-temple-78360.herokuapp.com/",
       mainImage: {
-        src: "img/flamegame.png",
+        src: "img/flamegame.PNG",
         caption: "Main Image Caption 1",
       },
       images: [
         {
-          src: "img/flamegame0.png",
+          src: "img/flamegame0.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/flamegame1.png",
+          src: "img/flamegame1.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/flamegame2.png",
+          src: "img/flamegame2.PNG",
           caption: "Sub Image Caption 2",
         },
         {
-          src: "img/flamegame3.png",
+          src: "img/flamegame3.PNG",
           caption: "Sub Image Caption 3",
         },
       ],
@@ -127,20 +127,20 @@ const DEFAULT_STATE = {
       github: "https://github.com/Anjali9293/TravelBug",
       demo: "https://klsybthrst.github.io/TravelBug/",
       mainImage: {
-        src: "img/travelbug.png",
+        src: "img/travelbug.PNG",
         caption: "Main Image Caption 1",
       },
       images: [
         {
-          src: "img/travelbug0.png",
+          src: "img/travelbug0.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/travelbug1.png",
+          src: "img/travelbug1.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/travelbug2.png",
+          src: "img/travelbug2.PNG",
           caption: "Sub Image Caption 2",
         },
       ],
@@ -184,15 +184,15 @@ const DEFAULT_STATE = {
       },
       images: [
         {
-          src: "img/burger1.png",
+          src: "img/burger1.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/burger2.png",
+          src: "img/burger2.PNG",
           caption: "Sub Image Caption 2",
         },
         {
-          src: "img/burger3.png",
+          src: "img/burger3.PNG",
           caption: "Sub Image Caption 3",
         },
       ],
@@ -231,28 +231,28 @@ const DEFAULT_STATE = {
       github: "https://github.com/Anjali9293/Employee-Directory",
       demo: "https://anjali9293.github.io/Employee-Directory/",
       mainImage: {
-        src: "img/directory.png",
+        src: "img/directory.PNG",
         caption: "Main Image Caption 1",
       },
       images: [
         {
-          src: "img/directory0.png",
+          src: "img/directory0.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/directory1.png",
+          src: "img/directory1.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/directory2.png",
+          src: "img/directory2.PNG",
           caption: "Sub Image Caption 2",
         },
         {
-          src: "img/directory3.png",
+          src: "img/directory3.PNG",
           caption: "Sub Image Caption 3",
         },
         {
-          src: "img/directory4.png",
+          src: "img/directory4.PNG",
           caption: "Sub Image Caption 4",
         },
       ],
@@ -288,20 +288,20 @@ const DEFAULT_STATE = {
       demo:
         "https://fast-temple-47625.herokuapp.com/?id=5fa9f8a586131b09dc2b8075",
       mainImage: {
-        src: "img/employee.png",
+        src: "img/employee.PNG",
         caption: "Main Image Caption 1",
       },
       images: [
         {
-          src: "img/employee 1.png",
+          src: "img/employee 1.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/employee 2.png",
+          src: "img/employee 2.PNG",
           caption: "Sub Image Caption 1",
         },
         {
-          src: "img/employee 3.png",
+          src: "img/employee 3.PNG",
           caption: "Sub Image Caption 2",
         },
       ],
