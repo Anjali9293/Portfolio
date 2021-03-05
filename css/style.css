@@ -428,7 +428,9 @@ ABOUT
 /*
 Skills
 */
-.skills {
+.skills {  
+  max-width: 150px!important;
+  width: 100%!important;
 }
 
 .center-block {
