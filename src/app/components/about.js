@@ -52,7 +52,7 @@ function AboutPage() {
                   <div className="about-me pt-4 pt-md-0">
                     {aboutMe.map(content => {
                       return (
-                        <p className="lead" key={content.id}>
+                        <p className="lead" key={content.id} style={{margin:"0 px"}}>
                           {content.content}
                         </p>
                       );
