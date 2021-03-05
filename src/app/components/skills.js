@@ -45,7 +45,6 @@ const DEFAULT_STATE = {
                 title={skill.id}
                 style={{
                     align: "center",
-                    width: "150px",
                     padding: "20px"
                 }} className="skills center-block" alt={skill.id}/>
             </div>

@@ -32,7 +32,7 @@ function Intro() {
               <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"
-                  href="#portfolio"
+                  href="./#portfolio"
                   role="button"
                 >
                   View My Work
