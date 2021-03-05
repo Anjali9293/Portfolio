@@ -19,6 +19,10 @@ h6 {
   color: #1e1e1e;
 }
 
+p {
+  line-height: 1.4!important;
+}
+
 a {
   color: #1e1e1e;
   transition: all 0.5s ease-in-out;
@@ -405,9 +409,6 @@ ABOUT
   margin-bottom: 2rem;
 }
 
-.about-mf .about-img img {
-  margin-left: 10px;
-}
 
 /* .skill-mf span {
   color: #4e4e4e;
